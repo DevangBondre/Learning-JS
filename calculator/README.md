@@ -1,4 +1,4 @@
-Made this caculator which performs basic mathematical caluclations ! 
+Made this calculator which performs basic mathematical caluclations ! 
 
 The reason i commented out the factorial code was because i was not able to figure it out with the If else statements 
 in my current code . 
